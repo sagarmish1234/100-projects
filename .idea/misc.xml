@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/cat/pom.xml" />
         <option value="$PROJECT_DIR$/ls/pom.xml" />
         <option value="$PROJECT_DIR$/grep/pom.xml" />
+        <option value="$PROJECT_DIR$/wc/pom.xml" />
+        <option value="$PROJECT_DIR$/tail/pom.xml" />
       </list>
     </option>
   </component>
