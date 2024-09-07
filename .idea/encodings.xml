@@ -7,6 +7,10 @@
     <file url="file://$PROJECT_DIR$/grep/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/progress-bar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/progress-bar/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tail/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wc/src/main/resources" charset="UTF-8" />
   </component>
